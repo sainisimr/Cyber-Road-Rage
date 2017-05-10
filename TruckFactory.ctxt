@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TruckFactory
+comment0.text=\n\ Write\ a\ description\ of\ class\ CarOtherFact\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Vehicle\ createCar()
+numComments=2

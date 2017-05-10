@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChooseCar
+comment0.text=\n\ Write\ a\ description\ of\ class\ ChooseCar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ChooseCar()
+comment2.params=directoryName
+comment2.target=java.util.List\ listOfImagesInDirectory(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

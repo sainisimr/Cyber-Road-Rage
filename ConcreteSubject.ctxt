@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ConcreteSubject
+comment0.text=\n\ Write\ a\ description\ of\ class\ ConcreteSubject\ here.\n\ \n\ @author\ Ashwini\ Balaraman\n\ @version\ 1.1\n
+comment1.params=
+comment1.target=ConcreteSubject()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ConcreteSubject\n
+comment2.params=
+comment2.target=java.lang.String\ getState()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment3.params=state
+comment3.target=void\ setState(java.lang.String)
+comment4.params=obj
+comment4.target=void\ attach(Observer)
+comment5.params=obj
+comment5.target=void\ detach(Observer)
+comment6.params=
+comment6.target=void\ notifyAllObservers()
+numComments=7

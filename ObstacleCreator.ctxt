@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ObstacleCreator
+comment0.text=\n\ Write\ a\ description\ of\ class\ Obs\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=verticalLaneOneActor
+comment1.target=Vehicle\ makeCar(int)
+comment2.params=
+comment2.target=Vehicle\ createCar()
+numComments=3

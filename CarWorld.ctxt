@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=CarWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ CarWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=CarWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CarWorld.\n\ \n
+comment10.params=
+comment10.target=long\ getStartTime()
+comment11.params=
+comment11.target=int\ getScore()
+comment12.params=
+comment12.target=boolean\ getPause()
+comment12.text=public\ int\ getScore()\n\ \ \ \ {\n\ \ \ \ \ \ \ return\ score;\n\ \ \ \ }\n\ \ \ \ public\ void\ addScore(int\ scoreToAdd)\n\ \ \ \ {\n\ \ \ \ \ \ \ score\ +\=\ scoreToAdd;\n\ \ \ \ \ \ \ String\ s\ \=\ "Score\ \:\ "\ +\ Integer.toString(score);\n\ \ \ \ \ \ \ board.makeImage(s);\n\ \ \ \ \ \ \ addObject(board,\ 500,\ 50);\n\ \ \ \ \ \ \ \n\ \ \ \ }\n\ \ \ \ public\ int\ getLives()\n\ \ \ \ {\n\ \ \ \ \ \ \ return\ lives;\n\ \ \ \ }\n\ \ \ \ public\ void\ collided()\n\ \ \ \ {\n\ \ \ \ \ \ \ lives--;\n}
+comment13.params=paused
+comment13.target=void\ pauseGame(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ click()
+comment4.params=
+comment4.target=void\ chanceToBackground()
+comment5.params=
+comment5.target=void\ chanceToEnemy()
+comment6.params=
+comment6.target=void\ chanceToVehicle()
+comment7.params=
+comment7.target=void\ chanceToFuel()
+comment8.params=
+comment8.target=void\ setCounter()
+comment9.params=
+comment9.target=void\ chanceToPedestrianCrossing()
+numComments=14

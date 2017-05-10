@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Subject
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Subject\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=obj
+comment1.target=void\ attach(Observer)
+comment1.text=\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ \ \ \ the\ result\ produced\ by\ sampleMethod\ \n
+comment2.params=obj
+comment2.target=void\ detach(Observer)
+comment3.params=
+comment3.target=void\ notifyAllObservers()
+numComments=4

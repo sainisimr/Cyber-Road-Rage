@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Enemy()
+comment2.params=
+comment2.target=int\ getSpeed()
+comment2.text=\n\ Getter\:\ gets\ speed\n\ @return\ integer\ (Speed)\n
+comment3.params=newSpeed
+comment3.target=void\ setSpeed(int)
+comment3.text=\n\ Setter\:\ sets\ speed\n\ @param\ integer\ (Speed)\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Vehicle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment5.params=
+comment5.target=void\ moveDown()
+comment6.params=
+comment6.target=void\ check()
+numComments=7

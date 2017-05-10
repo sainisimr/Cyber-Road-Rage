@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnemyCreator
+comment0.text=\n\ Write\ a\ description\ of\ class\ Obs\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=verticalLaneOneActor
+comment1.target=Enemy\ makeEnemy(int)
+comment2.params=
+comment2.target=Enemy\ createEnemy()
+numComments=3

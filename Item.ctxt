@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=filename
+comment1.target=Item(greenfoot.GreenfootImage)
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getImage()
+numComments=3

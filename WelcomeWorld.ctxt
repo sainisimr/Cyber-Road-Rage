@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WelcomeWorld
+comment0.text=\n\ \ WelcomeWorld\ is\ the\ first\ page\ user\ sees\ when\ running\ the\ game.\n\ \n\ @author\ Spoorthy\ Bhaktavatsala\ \n
+comment1.params=
+comment1.target=WelcomeWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WelcomeWorld.\n\ \n
+comment2.params=
+comment2.target=void\ setup()
+numComments=3
